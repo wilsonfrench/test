@@ -18,7 +18,7 @@ require('./config/passport')(passport);
 app.use(morgan('dev'));
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({extended: false}));
-app.use(session({secret: 'anystringoftext',
+app.use(session({secret: 'vik30vjjasd934nauv2',
 				 saveUninitialized: true,
 				 resave: true}));
 
