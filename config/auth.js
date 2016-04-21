@@ -1,8 +1,8 @@
 module.exports = {
 	'facebookAuth':{
-		'clientID': "1598369417149379",
-		'clientSecret': "d6c390d038c807d00ff850709dde1cb5",
-		'callbackURL': "http://im-down.herokuapp.com/auth/facebook/callback" //or local host if changed on settings
+		'clientID': "1735743179974008",
+		'clientSecret': "f17fbbdb1efce5e0bd162fc36bdd356b",
+		'callbackURL': "http://whispering-spire-51964.herokuapp.com/auth/facebook/callback" //or local host if changed on settings
 	}
 }
 
